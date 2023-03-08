@@ -8,9 +8,7 @@
 
 🎯 Målet med min praktik är att få en fot in i branchen men också att jag får öva på det jag kan i "verkligheten".
 
-
 ⚡ Fun fact: Jag älskar fiskbullar i dillsås. Du borde testa, om du inte redan har gjort det.
-
 
 ---
 

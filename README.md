@@ -4,7 +4,7 @@
 
 💁🏾‍♀️ Jag är en nyfiken, ambitiös, kreativ tjej som för närvarande studerar YH-utbildningen Webbutvecklare .NET.
 
-💻 Är nu på jakt efter en LIA-plats (praktik) inför hösten 2023 där jag får möjlighet att utvecklas både karriärmässigt och socialt.
+💻 Kommer under hösten 2023 att ha LIA(praktik) hos Knowit Jönköping.
 
 🎯 Målet med min praktik är att få en fot in i branchen men också att jag får öva på det jag kan i "verkligheten".
 

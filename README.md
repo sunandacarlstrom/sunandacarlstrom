@@ -2,13 +2,13 @@
 
 #### Kul att just du har hittat hit!
 
-💁🏾‍♀️ Jag är en nyfiken, ambitiös, kreativ tjej som för närvarande studerar YH-utbildningen Webbutvecklare .NET.
+💁🏾‍♀️ Jag är en nyfiken, ambitiös, kreativ tjej som för närvarande studerar YH-utbildningen Webbutvecklare .NET
 
-💻 Kommer under hösten 2023 och våren 2024 att ha LIA(praktik) hos Knowit Jönköping.
+💻 Kommer under hösten 2023 och våren 2024 att ha LIA/praktik på Knowit i Jönköping
 
-🎯 Målet med min praktik är att få en fot in i branchen men också att jag får öva på det jag kan i "verkligheten".
+🎯 Målet med min praktik är att få en fot in i branchen men också att jag får öva på det jag kan i "verkligheten"
 
-⚡ Fun fact: Jag älskar fiskbullar i dillsås. Du borde testa, om du inte redan har gjort det.
+⚡ Fun fact: Har dansat med Tony Irving
 
 ---
 

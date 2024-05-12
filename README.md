@@ -1,14 +1,16 @@
-### Hej 👋
+# Jag är redo att kickstarta min karriär som utvecklare! 🚀 
 
-#### Kul att just du har hittat hit!
+🎓 Nyexaminerad utvecklare med en bred kunskapsbas inom .NET och webbutveckling
 
-💁🏾‍♀️ Jag är en nyfiken, ambitiös, kreativ tjej som för närvarande studerar YH-utbildningen Webbutvecklare .NET
+🎯 Målet är att arbeta som fullstack-utvecklare / .NET-utvecklare
 
-💻 Kommer under hösten 2023 och våren 2024 att ha LIA/praktik på Knowit i Jönköping
+💁🏾‍♀️ Som person är jag nyfiken, ambitiös och kreativ
 
-🎯 Målet med min praktik är att få en fot in i branchen men också att jag får öva på det jag kan i "verkligheten"
+🤙🏾 Har du några frågor eller funderingar så tveka inte att kontakta mig!
 
-⚡ Fun fact: Har dansat med Tony Irving
+
+⚡ Fun fact: Dansat bugg med Tony Irving
+
 
 ---
 

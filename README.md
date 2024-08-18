@@ -1,8 +1,8 @@
-# Jag är redo att kickstarta min karriär som utvecklare! 🚀 
+# Hösten 2024 påbörjar jag min karriärsresa som utvecklare på Sweco! 🚀 
 
 🎓 Nyexaminerad utvecklare med en bred kunskapsbas inom .NET och webbutveckling
 
-🎯 Målet är att arbeta som fullstack-utvecklare / .NET-utvecklare
+🎯 Arbeta som fullstack-utvecklare / .NET-utvecklare samt teamleader för ett utvecklingsprojekt
 
 💁🏾‍♀️ Som person är jag nyfiken, ambitiös och kreativ
 

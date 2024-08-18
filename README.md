@@ -1,4 +1,4 @@
-# Hösten 2024 påbörjar jag min karriärsresa som utvecklare på Sweco! 🚀 
+# Hösten 2024 startas min karriärsresa som utvecklare på Sweco! 🚀 
 
 🎓 Nyexaminerad utvecklare med en bred kunskapsbas inom .NET och webbutveckling
 

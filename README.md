@@ -1,8 +1,8 @@
 # Hösten 2024 startas min karriärsresa som utvecklare på Sweco! 🚀 
 
-🎓 Nyexaminerad utvecklare med en bred kunskapsbas inom .NET och webbutveckling
+🎓 Arbetar som Systemutvecklare med erfarenhet av olika tekniker, ramverk och programmeringsspråk såsom ASP.NET och Node.js
 
-🎯 Arbeta som fullstack-utvecklare / .NET-utvecklare samt teamleader för ett utvecklingsprojekt
+🎯 Få möjligheten att arbeta som fullstack-utvecklare / .NET-utvecklare samt teamleader för ett utvecklingsprojekt
 
 💁🏾‍♀️ Som person är jag nyfiken, ambitiös och kreativ
 

@@ -1,12 +1,12 @@
-# Hösten 2024 startas min karriärsresa som utvecklare på Sweco! 🚀 
+# Hösten 2024 startades min karriärsresa som utvecklare på Sweco! 🚀 
 
-🎓 Arbetar som Systemutvecklare med erfarenhet av olika tekniker, ramverk och programmeringsspråk såsom ASP.NET och Node.js
+🎓 Arbetar idag som Systemutvecklare med erfarenhet av olika tekniker, ramverk och programmeringsspråk såsom ASP.NET och Node.js
 
 🎯 Få möjligheten att arbeta som fullstack-utvecklare / .NET-utvecklare samt teamleader för ett utvecklingsprojekt
 
-💁🏾‍♀️ Som person är jag nyfiken, ambitiös och kreativ
+💁🏾‍♀️ Som person är jag nyfiken, engagerad och lösningsorienterad
 
-🤙🏾 Har du några frågor eller funderingar så tveka inte att kontakta mig!
+🤙🏾 Har du några frågor eller önskar mer information är du varmt välkommen att kontakta mig!
 
 
 ⚡ Fun fact: Dansat bugg med Tony Irving
